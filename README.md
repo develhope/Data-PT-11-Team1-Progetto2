@@ -105,6 +105,6 @@ L'output finale è una tabella <b>product-centric</b> dove ogni riga rappresenta
 <li>Ottimizzazione dei pesi e analisi di sensibilità. </li>
 <ul>
   
-  [cite_start]<li>Normalizzazione e calibrazione degli score. [cite: 53]</li>
-  [cite_start]<li>Raccomandazioni vincolate per brand o segmento di mercato. [cite: 54]</li>
+ <li>Normalizzazione e calibrazione degli score. </li>
+]<li>Raccomandazioni vincolate per brand o segmento di mercato. </li>
 </ul>
