@@ -101,10 +101,8 @@ L'output finale è una tabella <b>product-centric</b> dove ogni riga rappresenta
 <hr>
 
 <h2>🚀 Possibili Estensioni</h2>
+<ul>
 <li>Normalizzazione e calibrazione degli score.</li>
 <li>Ottimizzazione dei pesi e analisi di sensibilità. </li>
-<ul>
-  
- <li>Normalizzazione e calibrazione degli score. </li>
-]<li>Raccomandazioni vincolate per brand o segmento di mercato. </li>
+<li>Raccomandazioni vincolate per brand o segmento di mercato. </li>
 </ul>
