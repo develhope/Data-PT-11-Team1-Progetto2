@@ -35,7 +35,7 @@ Il lavoro è stato suddiviso tra tre membri del team con i seguenti compiti:
 <table align="center">
   <tr>
     <th>Membro</th>
-    <th>Responsabilità</th>
+    <th>Task</th>
   </tr>
   <tr>
     <td><b>Elisa</b></td>
