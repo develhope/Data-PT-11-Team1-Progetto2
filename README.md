@@ -1,4 +1,4 @@
-<h1 align="center">Modellazione della Similarità a Livello di Prodotto per Sistemi di Raccomandazione</h1>
+<h1 align="center">Sistema di raccomandazione a livello di similarità del prodotto</h1>
 
 <p align="center">
 <b>Un approccio multi-dimensionale per il ranking di prodotti cosmetici basato su ingredienti e brand.</b> 
