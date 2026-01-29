@@ -94,8 +94,8 @@ L'output finale è una tabella <b>product-centric</b> dove ogni riga rappresenta
 
 <h3 align="center">Esempi di Raccomandazione</h3>
 <p align="center">
-  <img src="Screenshot 2026-01-29 165847.png_1" alt="Output 1" width="400">
-  <img src="INSERISCI_LINK_IMMAGINE_OUTPUT_2" alt="Output 2" width="400">
+  <img src="output1.png" alt="Output 1" width="400">
+  <img src="output2.png" width="400">
 </p>
 
 <hr>
