@@ -60,8 +60,7 @@ Gli script devono essere consultati nel seguente ordine cronologico:
   <li><b><code>pulizia_brand.ipynb</code></b>: Pulizia e normalizzazione del dataset brand. Produce il file <code>df_brand.csv</code>.</li>
   <li><b><code>script_ingredienti_pulizia</code></b>: Script parallelo per la pulizia e normalizzazione degli ingredienti.</li>
   <li><b><code>categoria&brand&ingr.ipynb</code></b>: Assegnazione delle categorie ai dataset. Produce il file <code>brand_categoria.csv</code>.</li>
-  <li><b><code>matrice_one_time</code></b>: Implementazione dell'algoritmo per la creazione della matrice 1xK.</li>
-  <li><b><code>algoritmo_finale.ipynb</code></b>: Codice definitivo che include la matrice ingredienti e calcola la <b>similarità finale</b>.</li>
+  <li><b><code>algoritmo_finale.ipynb</code></b>: Codice definitivo che genera le matrice 1xK e calcola la <b>similarità finale</b>.</li>
 </ol>
 
 <hr>
