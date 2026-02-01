@@ -19,7 +19,7 @@ Il progetto utilizza dati estratti da <b>OpenFoodFacts</b>, focalizzandosi esclu
 </ul>
 
 <p align="center">
-  <img src="dataset_raw.png" alt="Dataset Raw" width="800">
+  <img src="1_pulizia/dataset_raw.png" alt="Dataset Raw" width="800">
   <br><i>Visualizzazione del dataset grezzo prima delle fasi di pulizia.</i>
 </p>
 
